@@ -1,17 +1,39 @@
 # <p align="center">Hi👋, I'm Andrew Pavlov</p>
+
+**<p align="center">Junior java developer</p>**
+
+- 🌱 I’m currently learning **golang**
+- 👯 I’m looking to collaborate on IT company
+- ⚡ Fun fact: I'm interested in creating useful software🤔💻,  I also like playing guitar🙃🎸
+
 ---
 
-<!--
-**Andrew-Pavlov-dev/Andrew-Pavlov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect with Me
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-pavlov-dev/)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreewPavlov)
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/514482355935772691)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/andrrepw/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AndreewPavlov)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <p align="center">🛠️ My Tech Skills</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,cpp&theme=light)](https://skillicons.dev)
+
+### Development Tools:
+[![Dev tools](https://skillicons.dev/icons?i=git,github,ubuntu,docker,gcp,maven&theme=light)](https://skillicons.dev)
+
+
+#### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
