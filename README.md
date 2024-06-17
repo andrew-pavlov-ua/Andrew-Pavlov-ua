@@ -1,4 +1,4 @@
-# <center>Hi👋, I'm Andrew Pavlov</center>
+# <p align="center">Hi👋, I'm Andrew Pavlov</p>
 ---
 
 <!--
