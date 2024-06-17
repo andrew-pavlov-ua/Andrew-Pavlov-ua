@@ -1,4 +1,5 @@
-## <p align="center">Hi there 👋</p>
+# <center>Hi👋, I'm Andrew Pavlov</center>
+---
 
 <!--
 **Andrew-Pavlov-dev/Andrew-Pavlov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
