@@ -18,7 +18,7 @@
 ---
 
 ### <p align="center">🛠️ My Tech Skills</p>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,spring,hibernate,postgres,mongodb,cpp&theme=light)](https://skillicons.dev)
 
 ### Development Tools:
 [![Dev tools](https://skillicons.dev/icons?i=git,github,ubuntu,docker,gcp,maven&theme=light)](https://skillicons.dev)
