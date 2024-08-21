@@ -28,12 +28,3 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
