@@ -28,3 +28,6 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
 
 ---
+
+### LeetCode submits tracker:
+(http://64.176.66.30:8080/api/slug/ZORRIX/badge.svg)
