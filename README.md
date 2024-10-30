@@ -1,6 +1,6 @@
 # <p align="center">Hi👋, I'm Andrew Pavlov</p>
 
-**<p align="center">Junior java developer</p>**
+**<p align="center">Junior java/go developer</p>**
 
 - 🌱 I’m currently learning **golang**
 - 👯 I’m looking to collaborate on IT company
