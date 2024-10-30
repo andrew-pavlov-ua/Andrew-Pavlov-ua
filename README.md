@@ -10,7 +10,7 @@
 
 ### 🌐 Connect with Me
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-pavlov-dev/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndreewPavlov)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/https://t.me/Andrrew_w)
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/514482355935772691)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/andrrepw/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AndreewPavlov)
@@ -18,7 +18,7 @@
 ---
 
 ### <p align="center">🛠️ My Tech Skills</p>
-[![My Skills](https://skillicons.dev/icons?i=java,go,spring,hibernate,postgres,mongodb,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,spring,hibernate,postgres,mongodb,cpp&theme=light)](https://skillicons.dev)
 
 ### Development Tools:
 [![Dev tools](https://skillicons.dev/icons?i=git,github,ubuntu,docker,gcp,maven&theme=light)](https://skillicons.dev)
