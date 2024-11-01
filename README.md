@@ -30,4 +30,4 @@
 ---
 
 ### LeetCode submits tracker:
-[![LcBadge](andrewpavlov.org/lcb/api/slug/ZORRIX/badge.svg)](http://andrewpavlov.org/lcb)
+[![LcBadge](http://andrewpavlov.org/lcb/api/slug/ZORRIX/badge.svg)](http://andrewpavlov.org/lcb)
