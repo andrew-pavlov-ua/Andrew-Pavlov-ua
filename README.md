@@ -32,5 +32,4 @@
 ### LeetCode submits tracker:
 [![LeetCode Badge](http://andrewpavlov.org/lcb/api/slug/MURASAME_/badge.svg)](http://www.andrewpavlov.org/lcb/MURASAME_/redirect)
 
-# Link:
-## http://www.andrewpavlov.org/lcb
+### http://www.andrewpavlov.org/lcb
