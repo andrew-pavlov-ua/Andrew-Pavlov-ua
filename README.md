@@ -25,7 +25,7 @@
 
 
 #### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
 
 ---
 
