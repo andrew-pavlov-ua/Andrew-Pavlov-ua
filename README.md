@@ -30,5 +30,5 @@
 ---
 
 ### LeetCode submits tracker:
-[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/MURASAME_/badge.svg)](https://lc.andrewpavlov.org/MURASAME_/redirect)
+[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/MURASAME_/badge.svg)](https://lc.andrewpavlov.org/redirect-page/MURASAME_)
 
