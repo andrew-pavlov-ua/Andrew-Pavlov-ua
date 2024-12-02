@@ -30,4 +30,4 @@
 ---
 
 ### LeetCode submits tracker:
-[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/yaroslavpodorvanov/badge.svg)](https://lc.andrewpavlov.org/redirect-page/yaroslavpodorvanov)
+[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/murasame_/badge.svg)](https://lc.andrewpavlov.org/redirect-page/murasame_)
