@@ -2,7 +2,7 @@
 
 **<p align="center">Junior java/go developer</p>**
 
-- 🌱 I’m currently learning **golang**
+- 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on IT company
 - ⚡ Fun fact: I'm interested in creating useful software🤔💻,  I also like playing guitar🙃🎸
 
