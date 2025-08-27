@@ -24,8 +24,3 @@
 
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
-
----
-
-### LeetCode submits tracker:
-[![LeetCode Badge](https://lc.andrewpavlov.org/api/slug/murasame_/badge.svg)](https://lc.andrewpavlov.org/redirect-page/murasame_)
