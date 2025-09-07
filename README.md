@@ -1,10 +1,11 @@
 # <p align="center">Hi👋, I'm Andrew Pavlov</p>
-##  <p align="center"> I use arch btw </p>
 **<p align="center">Junior Java/Go developer</p>**
 
 - 🌱 I’m currently learning **Go**
 - 👯 I’m looking to collaborate on IT company
 - ⚡ Fun fact: I'm interested in creating useful software🤔💻,  I also like playing guitar🙃🎸
+
+[![Andrew Pavlov profile views](https://u8views.com/api/v1/github/profiles/100561417/views/day-week-month-total-count.svg)](https://u8views.com/github/andrew-pavlov-ua)
 
 ---
 
